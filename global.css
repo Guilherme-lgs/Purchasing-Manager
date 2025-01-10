@@ -1,0 +1,36 @@
+
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+
+.inputs{
+    background-color: blueviolet;
+    padding: 1rem;
+}
+.results{
+    background-color: aqua;
+    padding: 1rem;
+    
+}
+.inputs{
+    padding-top: 4dvh   ;
+    margin: 5dvh;
+}
+.results{
+    padding-top: 4dvh   ;
+    margin: 5dvh;
+}   
+ #rere{
+   
+    background-color: rgb(255, 255, 255);
+ }
+
+
+
